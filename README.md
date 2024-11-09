@@ -1,19 +1,10 @@
-# To Do List
- A Beutiful and Interactive To-Do-List app that allows you to add , delete, and mark task as complete. Your tasks are saved even after closing the browser or refreshing the page, using SessionStorage.
+# High Seas To Do List
+A PWA that can keep track of things you want to do for High Seas!
 
  Features: 
- 1. Add Task: easily add tasks to your list by inputbox
- 2. Delete Task: Remove task you no longer need.
- 3. Complete Task: Mark tasks as completed.
+ 1. Add Tasks: Easily add tasks to your list by inputbox
+ 2. Delete Tasks: Remove tasks you no longer need.
+ 3. Complete Tasks: Mark tasks as completed.
  4. Persistent Data: Tasks are saved in Sessionstorage and remain intact across page refreshes.
- 5. Beautiful UI: clean, user friendly interface for a smoot experience
- 6. Validation Check: Check that user enter some task or not , and some other validation Check
-
- Technologies:
- HTML , CSS Javascript
-
- installation:
- 1. Clone the repository
- 2. Open index.html in your browser.
-
- License: This project is licensed under the MIT License
+ 5. Beautiful UI: Clean, user friendly interface for a smooth experience
+ 6. Validation Check: Check that user enter some task or not, and some other validation check.
